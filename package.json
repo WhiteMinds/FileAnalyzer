@@ -1,0 +1,23 @@
+{
+  "name": "file-analyzer",
+  "version": "1.0.0",
+  "description": "A universal binary data parser that can freely expand the type.",
+  "main": "FileAnalyzer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhiteMinds/FileAnalyzer.git"
+  },
+  "keywords": [
+    "analyzer",
+    "class"
+  ],
+  "author": "WhiteMind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WhiteMinds/FileAnalyzer/issues"
+  },
+  "homepage": "https://github.com/WhiteMinds/FileAnalyzer#readme"
+}
